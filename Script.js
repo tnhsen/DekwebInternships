@@ -39,3 +39,4 @@ function fireConfetti() {
 }
 
 window.onload = typeWriter;
+
